@@ -1,0 +1,88 @@
+*
+body
+{
+    background-color: lightblue;
+}
+    
+    .top{
+     background-color: white;
+    display: flex;
+     justify-content: space-between;
+     box-shadow: 1px 2px 13px black;
+    align-items: center;
+    }
+    .left{
+   margin: 15px;
+    }
+    .left li{
+    
+    font-family: sans-serif;
+    display: inline;
+     flex-direction: row-reverse;
+     list-style: none;
+     color: black;
+     padding: 10px;
+   
+    }
+    .left a{
+    text-decoration: none ;
+    }
+    .right{
+    margin: 15px;
+    }
+    .right li{
+     display: inline;
+    font-family: sans-serif;
+    list-style: none;
+     color: black;
+     padding: 10px;
+    
+    
+     }
+    .right a{
+     text-decoration: none ;
+    }
+    
+    .main{
+     display: flex;
+    justify-content: space-between;
+    }
+    .sidebar-left{
+   background-color:white;
+     box-shadow: 0px 0px 5px black;
+    height: 1000px;
+    
+    }
+    .INTRODUCTION{
+   background-color: khaki;
+   
+    
+    width: 1500;
+     height: 100x;
+    }
+    .HOBBIES{
+        background-color:lightgoldenrodyellow;
+   
+    
+        width: 1000;
+        height: 100px;
+        
+       
+  
+    }
+    .CONTACTS{
+        background-color:lightgoldenrodyellow;
+   
+    
+        width: 1000;
+        height: 100px;
+    }
+    
+
+   
+    
+
+
+
+    
+
